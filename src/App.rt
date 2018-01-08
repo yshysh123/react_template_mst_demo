@@ -1,0 +1,6 @@
+<rt-require dependency="./Todo" as="Todo"/>
+<rt-require dependency="./Todo2" as="sb"/>
+<div>
+    <Todo class="todo"></Todo>
+    <sb class="todo"></sb>
+</div>
