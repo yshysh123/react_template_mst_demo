@@ -1,0 +1,2 @@
+# react_template_mst_demo
+一套基于react+react_template+mobx_state_tree的demo，初步想法，一步一步完善中
